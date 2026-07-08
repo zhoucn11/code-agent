@@ -6,6 +6,14 @@
 
 *learn from it · fork it · ship something better*
 
+本项目直接clone：https://github.com/he-yufeng/CoreCoder
+此处建立仓库，用于日后改进和适配业务场景
+目标：
+    1. 整体架构使用langgraph
+    2. 优化记忆存储
+    3. 进行agent评估
+    4. 业务落地：代码安全放心
+
 中文 | [English](README.md) | [配套源码导读 · 八篇双语](article/)
 
 [![PyPI](https://img.shields.io/pypi/v/corecoder)](https://pypi.org/project/corecoder/)
